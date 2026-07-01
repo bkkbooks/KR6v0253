@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6v0253/i/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 道俗卅七人造經像記
+  edition:
+    short: i
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/I/I01/I01n0054.xml
+    old_id: I01n0054
+hash: sha256:1f8decb13f7c714d48b6a30565a05b5291fd11e0d2fc1b1a34993253a60e433e

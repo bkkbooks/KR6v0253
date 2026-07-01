@@ -1,0 +1,42 @@
+canonical_identifier: bkk:krp/KR6v0253/v1
+canonical_location: https://kanripo.org/bkk/KR6v0253/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 道俗卅七人造經像記
+  identifiers:
+    alt_id:
+    - I01n0054
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/I/I01/I01n0054.xml
+    old_id: I01n0054
+  edition:
+    short: bkk
+editions:
+- short: 佛拓
+  label: 佛拓
+  source_xml_id: wit.orig
+- short: I
+assets:
+  parts:
+  - {seq: 0, filename: KR6v0253_000.yaml, hash: 'sha256:1f8decb13f7c714d48b6a30565a05b5291fd11e0d2fc1b1a34993253a60e433e'}
+  - {seq: 1, filename: KR6v0253_001.yaml, hash: 'sha256:7db370b4c5f1e46be0d40447fc2207de4c408e919e2b1b3452326c593b30fd2a'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6v0253_001.markers.yaml, hash: 'sha256:c25a94e5273629447ac9b3168a65ccb79175a3f3a2e11ad43aa40a5b31c93d06'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6v0253_I_001-juan-start
+    span:
+    - body
+    - 0
+    - 523
+  label: 道俗卅七人造經像記
+  type: juan
+  level: 1
+hash: sha256:7ecfb976dccfbe69471a244d94cc4d83b56aad153ab148b46efaa54e38f4fb1c
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e

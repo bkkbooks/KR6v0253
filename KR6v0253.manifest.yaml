@@ -22,9 +22,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6v0253_000.yaml, hash: 'sha256:1f8decb13f7c714d48b6a30565a05b5291fd11e0d2fc1b1a34993253a60e433e'}
-  - {seq: 1, filename: KR6v0253_001.yaml, hash: 'sha256:7db370b4c5f1e46be0d40447fc2207de4c408e919e2b1b3452326c593b30fd2a'}
+  - {seq: 1, filename: KR6v0253_001.yaml, hash: 'sha256:cb466578a80cb18a7d8038a5c88c9c0bf6074948ec514094f8de5b2c54c4e259'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6v0253_001.markers.yaml, hash: 'sha256:c25a94e5273629447ac9b3168a65ccb79175a3f3a2e11ad43aa40a5b31c93d06'}
+  - {seq: 0, role: markers, filename: assets/KR6v0253_000.markers.yaml, hash: 'sha256:a6576f1bf94f0b337fde2c31f46e4fd5e7e9944cae3df0d6bffdd637f90c1785'}
+  - {seq: 1, role: markers, filename: assets/KR6v0253_001.markers.yaml, hash: 'sha256:76f9a534595edd4629b0ebc6b22095d3fdcb5a79ea88bdcd39e1044956caafd6'}
 table_of_contents:
 - ref:
     seq: 1
@@ -36,7 +37,4 @@ table_of_contents:
   label: 道俗卅七人造經像記
   type: juan
   level: 1
-hash: sha256:7ecfb976dccfbe69471a244d94cc4d83b56aad153ab148b46efaa54e38f4fb1c
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:8467d6efa195f639861402df243f551a2d7836e415cbae19502e8b113fa1541f
